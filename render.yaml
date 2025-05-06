@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: proterps
+    env: python
+    buildCommand: ""
+    startCommand: "python app.py"
+    plan: free
+    #
+//  render.yaml
+//  
+//
+//  Created by Qadeer OSMANI on 5/6/25.
+//
+
